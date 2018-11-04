@@ -1,0 +1,62 @@
+#login-form {
+  width: 400px;
+  height: 420px;
+  position: fixed;
+  top: -28px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: rgba(0,0,0,.4);
+  border-radius: 20px;
+}
+
+#login-form img {
+  width: 60%;
+  margin: 50px 20% 30px 20%;
+}
+
+#login-form div input {
+  border-radius: 150px;
+}
+
+#login-form div input[type=text] {
+  width: 60%;
+  padding: 10px 10%;
+  margin: 0px 10% 10px 10%;
+  font-family: 'iYekan-Regular';
+  text-align: center;
+  background-color: #ddd;
+  border: none;
+  color: #999;
+}
+
+#login-form div input[type=button] {
+  display: block;
+  padding: 10px 40px;
+  margin: 20px auto 0 auto;  
+  font-family: 'iYekan-Medium';
+  border: none; 
+  transition-duration: .5s;
+}
+
+#login-form div input[type=button]:hover {
+  background-color: tomato;
+  color: #fff;
+  transition-duration: .5s;
+}
+
+#login-form div input[type=button]:active {
+  background-color: #f00;
+  color: #000;
+}
+
+#login-form p {
+  margin-top: 65px;
+  font-family: 'SegoeUI-Regular';
+  font-size: 11pt;
+  text-align: center;
+  direction: ltr;
+  cursor: default;
+  color: #888;
+}
