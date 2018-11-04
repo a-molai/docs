@@ -24,7 +24,7 @@
   width: 60%;
   padding: 10px 10%;
   margin: 0px 10% 10px 10%;
-  font-family: 'iYekan-Regular';
+  font-family: 'iyekan-regular';
   text-align: center;
   background-color: #ddd;
   border: none;
@@ -35,7 +35,7 @@
   display: block;
   padding: 10px 40px;
   margin: 20px auto 0 auto;  
-  font-family: 'iYekan-Medium';
+  font-family: 'iyekan-medium';
   border: none; 
   transition-duration: .5s;
 }
@@ -53,7 +53,7 @@
 
 #login-form p {
   margin-top: 65px;
-  font-family: 'SegoeUI-Regular';
+  font-family: 'SegoeUI-regular';
   font-size: 11pt;
   text-align: center;
   direction: ltr;

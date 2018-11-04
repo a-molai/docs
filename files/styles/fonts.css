@@ -1,24 +1,24 @@
 @font-face {
-    font-family: 'iYekan-Light';
-    src: url('../Fonts/IRANYekanLight.ttf') format('truetype');
+    font-family: 'iyekan-light';
+    src: url('../fonts/iran-yekan/light.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'iYekan-Regular';
-    src: url('../Fonts/IRANYekanRegular.ttf') format('truetype');
+    font-family: 'iyekan-regular';
+    src: url('../fonts/iran-yekan/regular.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'iYekan-Medium';
-    src: url('../Fonts/IRANYekanMedium.ttf') format('truetype');
+    font-family: 'iyekan-medium';
+    src: url('../fonts/iran-yekan/medium.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'iYekan-Bold';
-    src: url('../Fonts/IRANYekanBold.ttf') format('truetype');
+    font-family: 'iyekan-bold';
+    src: url('../fonts/iran-yekan/bold.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'SegoeUI-Regular';
-    src: url('../Fonts/SegoeUIRegular.ttf') format('truetype');
+    font-family: 'segoeui-regular';
+    src: url('../fonts/segoe-ui/regular.ttf') format('truetype');
 }
