@@ -3,3 +3,7 @@ body {
   background-image: url(../images/texture.png);
   background-color: #000;
 }
+
+a {
+  text-decoration: none;
+}
