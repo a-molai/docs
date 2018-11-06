@@ -26,8 +26,10 @@ $(function() {
   $("#login-form input:text:nth-child(2)").focusin(function() {
     if ($("#login-form input:text:nth-child(2)").val() == "رمز عبور") {
       $("#login-form input:text:nth-child(2)").val("");
+      $("#login-form input:text:nth-child(2)").attr({
+        "type": "password"
+      })
       $("#login-form input:text:nth-child(2)").css({
-        "font-family": "SegoeUI-Regular",
         "padding-bottom": "11px",
         "color": "#000"
       });
