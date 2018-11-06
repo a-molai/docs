@@ -5,7 +5,6 @@ $(function() {
       $("#login-form input:text:first").val("");
       $("#login-form input:text:first").css({
         "font-family": "SegoeUI-Regular",
-        "font-size": "15px",
         "padding": "11px 10%",
         "color": "#000"
       });
@@ -17,7 +16,6 @@ $(function() {
       $("#login-form input:text:first").val("نام کاربری");
       $("#login-form input:text:first").css({
         "font-family": "iyekan-regular",
-        "font-size": "15px",
         "color": "#000"
       });
     }
