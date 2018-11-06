@@ -5,7 +5,7 @@ $(function() {
       $("#login-form input:text:first").val("");
       $("#login-form input:text:first").css({
         "font-family": "SegoeUI-Regular",
-        "font-size": "11.5pt",
+        "font-size": "12t",
         "color": "#000"
       });
     }
