@@ -36,7 +36,7 @@ $(function() {
         "text-align": "center",
         "background-color": "#ddd",
         "border": "none",
-        "color": "#999"
+        "color": "#f00"
       });
       $("#login-form input:text:nth-child(2)").css({
         "padding-bottom": "11px",
