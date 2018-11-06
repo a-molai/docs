@@ -5,7 +5,7 @@ $(function() {
       $("#login-form input:text:first").val("");
       $("#login-form input:text:first").css({
         "font-family": "SegoeUI-Regular",
-        "padding": "11px 10%",
+        "padding": "9px 10%",
         "color": "#000"
       });
     }
@@ -17,7 +17,7 @@ $(function() {
       $("#login-form input:text:first").css({
         "font-family": "iyekan-regular",
         "padding": "10px 10%",
-        "color": "#999"
+        "color": "#f00"
       });
     }
   });
