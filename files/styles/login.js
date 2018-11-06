@@ -6,7 +6,7 @@ $(function() {
       $("#login-form input:text:first").css({
         "font-family": "SegoeUI-Regular",
         "font-size": "15px",
-        "padding": "",
+        "padding": "11px 10%",
         "color": "#000"
       });
     }
