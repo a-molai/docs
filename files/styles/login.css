@@ -25,7 +25,8 @@
   padding: 10px 10%;
   margin: 0px 10% 10px 10%;
   font-family: 'iyekan-regular';
-  font-size: 10.5pt;
+  font-size: 11pt;
+  direction: ltr;
   text-align: center;
   background-color: #ddd;
   border: none;
