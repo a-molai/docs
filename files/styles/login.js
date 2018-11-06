@@ -1,5 +1,5 @@
 $(function() {
-  $("#login-form input:text:first").focusin(function() {
+  $("#login-form input:text:first").click(function() {
     if ($("#login-form input:text:first").val() == "پست الکترونیک")
       $("#login-form input:text:first").val("");
   });
