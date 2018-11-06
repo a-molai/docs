@@ -18,7 +18,7 @@
         <input type="text" value="رمز عبور"/>
         <a href=".html"><input type="button" value="ورود به سامانه"/></a>
       </div>
-      <p>Copyright &copy; 2018 Amin IDC</p>
+      <p>Copyright &copy; 2018 Amin IDC. All Rights Reserved.</p>
     </div>
   </body>
 </html>
