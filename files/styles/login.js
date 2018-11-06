@@ -28,18 +28,7 @@ $(function() {
       $("#login-form input:text:nth-child(2)").val("");
       $("#login-form input:text:nth-child(2)").attr({
         "type": "password",
-        "style": "width: 60%; color: #666"
-      });
-      $("#login-form input:text:nth-child(2)").css({
-        "width": "60%",
-        "padding": "10px 10%",
-        "margin": "0px 10% 10px 10%",
-        "font-family": "iyekan-regular",
-        "font-size": "15px",
-        "text-align": "center",
-        "background-color": "#ddd",
-        "border": "none",
-        "color": "#f00"
+        "style": "width: 60%; padding: 10px 10%; margin: 0px 10% 10px 10%; font-family: 'iyekan-regular'; font-size: 15px; text-align: center; background-color: #ddd; boder: none; color: #000"
       });
     }
   });
