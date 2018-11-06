@@ -17,7 +17,7 @@ $(function() {
       $("#login-form input:text:first").css({
         "font-family": "iyekan-regular",
         "font-size": "11pt",
-        "color": "#999"
+        "color": "#f00"
       });
     }
   });
