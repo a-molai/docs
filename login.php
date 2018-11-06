@@ -14,7 +14,7 @@
     <div id="login-form">
       <img src="files/images/logo.png"/>
       <div>
-        <input type="text" value="پست الکترونیک"/>
+        <input type="text" value="نام کاربری"/>
         <input type="text" value="رمز عبور"/>
         <a href=".html"><input type="button" value="ورود به سامانه"/></a>
       </div>

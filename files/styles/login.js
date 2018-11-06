@@ -7,14 +7,14 @@ $(function() {
     if ($("#login-form input:text:first").val() == "")
       $("#login-form input:text:first").val("نام کاربری");
   });
-  /*$("#login-form input:text:nth-child(2)").focusin(function() {
+  $("#login-form input:text:nth-child(2)").focusin(function() {
     if ($("#login-form input:text:nth-child(2)").val() == "رمز عبور")
       $("#login-form input:text:nth-child(2)").val("");
   });
   $("#login-form input:text:nth-child(2)").focusout(function() {
     if ($("#login-form input:text:nth-child(2)").val() == "")
       $("#login-form input:text:nth-child(2)").val("رمز عبور");
-  });*/
+  });
 });
 
 
