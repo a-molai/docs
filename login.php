@@ -14,9 +14,9 @@
     <div id="login-form">
       <img src="files/images/logo.png"/>
       <div>
-        <input type="text" value="پست الکترونیک" onfocus="check_mail()"/>
-        <input type="text" value="رمز عبور" onfocus="check_password()"/>
-        <a href="dashboard.html"><input type="button" value="ورود به سامانه"/></a>
+        <input type="text" value="پست الکترونیک"/>
+        <input type="text" value="رمز عبور"/>
+        <a href=".html"><input type="button" value="ورود به سامانه"/></a>
       </div>
       <p>Copyright &copy; 2018 Amin IDC. All Rights Reserved.</p>
     </div>

@@ -1,5 +1,7 @@
-function check_mail() {
-  if ($("#login-form input:text:first").val() == "پست الکترونیک") 
+$("#login-form input:text:first").click(username())
+
+function username() {
+  if ($("#login-form input:text:first").val() == "پست الکترونیک")
     $("#login-form input:text:first").val('');
   $("#login-form input:text:first").css({
     "font-family": "SegoeUI-Regular",
@@ -9,7 +11,7 @@ function check_mail() {
   });
 }
 
-function check_password() {
+function password() {
     if ($("#login-form input:text:nth-child(2)").val() == "رمز عبور") 
       $("#login-form input:text:nth-child(2)").val('');
     $("#login-form input:text:nth-child(2)").attr('type', 'password');
