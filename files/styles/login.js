@@ -17,7 +17,7 @@ $(function() {
       $("#login-form input:text:first").css({
         "font-family": "iyekan-regular",
         "padding-bottom": "10px",
-        "color": "#0"
+        "color": "#f00"
       });
     }
   });
