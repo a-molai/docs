@@ -28,7 +28,7 @@ $(function() {
       $("#login-form input:text:nth-child(2)").val("");
       $("#login-form input:text:nth-child(2)").attr({
         "type": "password",
-        "style": "width: 60%; padding: 12px 10% 8px 10%; margin: 0px 10% 10px 10%; font-family: 'iyekan-regular'; font-size: 15px; text-align: center; background-color: #ddd; border: none; color: #000"
+        "style": "width: 60%; padding: 11px 10% 9px 10%; margin: 0px 10% 10px 10%; font-family: 'iyekan-regular'; font-size: 15px; text-align: center; background-color: #ddd; border: none; color: #000"
       });
     }
   });
