@@ -16,7 +16,7 @@ $(function() {
       $("#login-form input:text:first").val("نام کاربری");
       $("#login-form input:text:first").css({
         "font-family": "iyekan-regular",
-        "font-size": "12pt",
+        "font-size": "11pt",
         "direction": "ltr",
         "color": "#999"
       });
@@ -26,7 +26,7 @@ $(function() {
   $("#login-form input:text:nth-child(2)").focusin(function() {
     if ($("#login-form input:text:nth-child(2)").val() == "رمز عبور")
       $("#login-form input:text:nth-child(2)").val("");
-      $("#login-form input:text:first").css({
+      $("#login-form input:text:nth-child(2)").css({
         "font-family": "SegoeUI-Regular",
         "font-size": "11pt",
         "direction": "ltr",
@@ -37,7 +37,7 @@ $(function() {
   $("#login-form input:text:nth-child(2)").focusout(function() {
     if ($("#login-form input:text:nth-child(2)").val() == "")
       $("#login-form input:text:nth-child(2)").val("رمز عبور");
-      $("#login-form input:text:first").css({
+      $("#login-form input:text:nth-child(2)").css({
         "font-family": "iyekan-regular",
         "font-size": "12pt",
         "direction": "ltr",
