@@ -28,6 +28,7 @@ $(function() {
       $("#login-form input:text:nth-child(2)").val("");
       $("#login-form input:text:nth-child(2)").attr({
         "type": "password",
+        "style": "width: 60%; color: #666"
       });
       $("#login-form input:text:nth-child(2)").css({
         "width": "60%",
