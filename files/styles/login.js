@@ -5,7 +5,7 @@ $(function() {
       $("#login-form input:text:first").val("");
       $("#login-form input:text:first").css({
         "font-family": "SegoeUI-Regular",
-        "font-size": "15px",
+        "font-size": "12pt",
         "color": "#000"
       });
     }
@@ -17,7 +17,7 @@ $(function() {
       $("#login-form input:text:first").css({
         "font-family": "iyekan-regular",
         "font-size": "11pt",
-        "color": "#f00"
+        "color": "#000"
       });
     }
   });
