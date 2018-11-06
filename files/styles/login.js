@@ -29,15 +29,14 @@ $(function() {
       $("#login-form input:text:nth-child(2)").attr({
         "type": "password",
         "width": "60%",
-  "padding": "10px 10%",
-  "margin": "0px 10% 10px 10%",
-  "font-family": "iyekan-regular",
-  "font-size": "15px",
-  "direction": "ltr",
-  "text-align": "center",
-  "background-color": "#ddd",
-  "border": "none",
-  "color": "#999",
+        "padding": "10px 10%",
+        "margin": "0px 10% 10px 10%",
+        "font-family": "iyekan-regular",
+        "font-size": "15px",
+        "text-align": "center",
+        "background-color": "#ddd",
+        "border": "none",
+        "color": "#999"
       });
       $("#login-form input:text:nth-child(2)").css({
         "padding-bottom": "11px",
