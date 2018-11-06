@@ -4,6 +4,10 @@ body {
   background-color: #000;
 }
 
+body, a {
+  color: #ddd;
+}
+
 a {
   text-decoration: none;
 }
