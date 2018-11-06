@@ -1,7 +1,9 @@
-$("#login-form input:text:first").click(function() {
-  if ($("#login-form input:text:first").val() == "پست الکترونیک")
-    $("#login-form input:text:first").val('');
-})
+$(function() {
+  $("#login-form input:text:first").click(function() {
+    if ($("#login-form input:text:first").val() == "پست الکترونیک")
+      $("#login-form input:text:first").val('');
+  });
+});
 
 function username() {
   if ($("#login-form input:text:first").val() == "پست الکترونیک")
