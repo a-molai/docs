@@ -5,7 +5,7 @@ $(function() {
       $("#login-form input:text:first").val("");
       $("#login-form input:text:first").css({
         "font-family": "SegoeUI-Regular",
-        "font-size": "16px",
+        "padding-bottom": "11px",
         "color": "#000"
       });
     }
@@ -16,8 +16,8 @@ $(function() {
       $("#login-form input:text:first").val("نام کاربری");
       $("#login-form input:text:first").css({
         "font-family": "iyekan-regular",
-        "font-size": "15px",
-        "color": "#999"
+        "padding-bottom": "10px",
+        "color": "#0"
       });
     }
   });
