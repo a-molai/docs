@@ -39,7 +39,7 @@ $(function() {
       $(this).val("رمز عبور");
       $(this).attr({
         "type": "text",
-        "style": "width: 90%; margin: 8px 5% 0px 5%; background-color: transparent; font-family: 'iyekan-regular'; font-size: 15px; text-align: center; border: none; color: #222;"
+        "style": "width: 90%; margin: 8px 5% 0px 5%; background-color: transparent; font-family: 'iyekan-regular'; font-size: 15px; text-align: center; border: none; color: #888;"
       });
     };
   });
