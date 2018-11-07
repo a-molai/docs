@@ -25,8 +25,10 @@ $(function() {
   });
 
   $("li:nth-child(2) input").focusin(function() {
+    $(this).val("");
     $(this).attr({
-      "type": "password"
+      "type": "password",
+      "style": "width: 90%; margin: 8px 5% 0px 5%; background-color: transparent; font-family: 'iyekan-regular'; font-size: 15px; text-align: center; border: none; color: 222;"
     });
   });
 
