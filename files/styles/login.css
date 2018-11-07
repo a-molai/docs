@@ -17,16 +17,18 @@ body div:first-child img {
 }
 
 body div:first-child ul {
+  width: 60%;
   background-color: #f0f;
 }
 
 body div:first-child li {
-  width: 60%;
+  width: 100%;
   border-radius: 150px;
   background-color: #f00;
 }
 
 body div:first-child input[type=text] {
+  width: 100%;
   background-color: transparent;
   font-family: 'iyekan-regular';
   font-size: 15px;
