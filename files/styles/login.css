@@ -23,7 +23,7 @@ body div:first-child li {
 }
 
 body div:first-child input[type=text] {
-  background-color: none;
+  background-color: transparent;
   font-family: 'iyekan-regular';
   font-size: 15px;
   direction: ltr;
