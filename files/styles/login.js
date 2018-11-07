@@ -6,7 +6,7 @@ $(function() {
       $("input:text:first").css({
         "font-family": "segoeui-regular",
         "font-size": "16px",
-        "margin-top": "7px",
+        "margin-top": "6px",
         "color": "#222"
       });
     }
