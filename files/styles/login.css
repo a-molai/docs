@@ -18,6 +18,7 @@ body div:first-child img {
 
 body div:first-child ul {
   width: 60%;
+  margin: 0px 20% 0px 20%;
   background-color: #f0f;
 }
 
