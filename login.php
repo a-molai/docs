@@ -13,11 +13,11 @@
   <body>
     <div id="login-form">
       <img src="files/images/logo.png"/>
-      <div>
-        <input type="text" value="نام کاربری"/>
-        <input type="text" value="رمز عبور"/>
+      <ul>
+        <li><input type="text" value="نام کاربری"/></li>
+        <li><input type="text" value="رمز عبور"/></li>
+      </ul>
         <a href=".html"><input type="button" value="ورود به سامانه"/></a>
-      </div>
       <p>Copyright &copy; 2018 Amin IDC. All Rights Reserved.</p>
     </div>
   </body>
