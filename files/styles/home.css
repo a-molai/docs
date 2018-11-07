@@ -17,7 +17,7 @@ div:first-child {
     margin: 100px 25% 30px 25%;
   }
 
-  div:first-child li:first-child {
+  div:first-child li:nth-child(1) {
     margin-top: 0px;
   }
 
