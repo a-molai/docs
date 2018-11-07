@@ -25,7 +25,7 @@ $(function() {
   });
 
   $("li:nth-child(2) input").focusin(function() {
-    if ($(this).val == "رمز عبور") {
+    if ($(this).val() == "رمز عبور") {
       $(this).val("");
       $(this).attr({
         "type": "password",
