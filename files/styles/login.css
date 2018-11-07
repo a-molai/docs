@@ -22,7 +22,7 @@ body div:first-child li {
   background-color: #f00;
 }
 
-#login-form div input[type=text] {
+body div:first-child input[type=text] {
   background-color: none;
   padding: 10px 10%;
   margin: 0px 10% 10px 10%;
