@@ -53,7 +53,7 @@ div {
         color: #888;
       }
 
-      input:nth-child(2) {
+      li:nth-child(2) input {
         margin-top: 6px;
       }
 
