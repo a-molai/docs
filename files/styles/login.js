@@ -17,7 +17,8 @@ $(function() {
       $("input:text:first").val("نام کاربری");
       $("input:text:first").css({
         "font-family": "iyekan-regular",
-        "padding-bottom": "15px",
+        "font-size": "15px",
+        "margin-top": "8px",
         "color": "#888"
       });
     }
