@@ -24,7 +24,7 @@ $(function() {
     };
   });
 
-  $("input:text:nth-child(2)").focusin(function() {
+  $("li input:text:nth-child(2)").focusin(function() {
     $(this).val("");
   })
 
