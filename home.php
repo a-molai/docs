@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>ورود به سامانه</title>
+    <title>DOCS</title>
     <link rel="stylesheet" href="files/styles/reset.css"/>
     <link rel="stylesheet" href="files/styles/master.css"/>
     <link rel="stylesheet" href="files/styles/fonts.css"/>
