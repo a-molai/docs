@@ -1,4 +1,4 @@
-body div:first-child {
+div:first-child {
   width: 400px;
   height: 420px;
   position: fixed;
@@ -11,24 +11,28 @@ body div:first-child {
   border-radius: 20px;
 }
 
-  body div:first-child img {
+  img {
     width: 60%;
     margin: 50px 20% 30px 20%;
   }
 
-  body div:first-child ul {
+  ul {
     width: 60%;
     margin: 0px 20% 0px 20%;
     background-color: #f0f;
   }
 
-    body div:first-child li {
+    li {
       width: 100%;
       border-radius: 150px;
       background-color: #f00;
     }
 
-      body div:first-child input[type=text] {
+      li, input[type=button] {
+        border-radius: 150px
+      }
+
+      input[type=text] {
         width: 100%;
         background-color: transparent;
         font-family: 'iyekan-regular';
@@ -38,7 +42,7 @@ body div:first-child {
         border: none;
       }
 
-      body div:first-child input[type=button] {
+      input[type=button] {
         padding: 10px 40px;
         margin: 20px auto 0 auto;  
         font-family: 'iyekan-medium';
@@ -58,12 +62,12 @@ body div:first-child {
   color: #000;
 }
 
-body div:first-child p {
-  margin-top: 65px;
-  font-family: 'segoeui-regular';
-  font-size: 15px;
-  text-align: center;
-  direction: ltr;
-  cursor: default;
-  color: #888;
-}
+  p {
+    margin-top: 65px;
+    font-family: 'segoeui-regular';
+    font-size: 15px;
+    text-align: center;
+    direction: ltr;
+    cursor: default;
+    color: #888;
+  }
