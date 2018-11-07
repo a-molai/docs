@@ -6,7 +6,7 @@ $(function() {
       $(this).css({
         "font-family": "segoeui-regular",
         "font-size": "16px",
-        "margin-top": "6px",
+        "margin-top": "7px",
         "color": "#222"
       });
     };
