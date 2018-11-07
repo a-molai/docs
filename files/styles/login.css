@@ -16,12 +16,14 @@ body div:first-child img {
   margin: 50px 20% 30px 20%;
 }
 
-#login-form div input {
+body div:first-child li {
+  width: 60%;
   border-radius: 150px;
+  background-color: #f00;
 }
 
 #login-form div input[type=text] {
-  width: 60%;
+  
   padding: 10px 10%;
   margin: 0px 10% 10px 10%;
   font-family: 'iyekan-regular';
