@@ -47,6 +47,7 @@ div {
         text-align: center;
         border: none;
         color: #888;
+        text-security: circle;
       }
 
       input[type=button] {
