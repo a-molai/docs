@@ -15,7 +15,7 @@
       <img src="files/images/logo.png"/>
       <ul>
         <li><input type="text" value="نام کاربری"/></li>
-        <li><input type="text" value="p"/></li>
+        <li><input type="text" value="رمز عبور"/></li>
         <a href="#"><input type="button" value="ورود به سامانه"/></a>
       </ul>
       <p>Copyright &copy; 2018 Amin IDC. All Rights Reserved.</p>
