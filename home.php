@@ -15,6 +15,7 @@
       <img src="files/images/logo.png"/>
       <ul>
         <a href=""><li>آرشیو گزارشات</li></a>
+        <a href=""><li>خروج</li></a>
       </ul>
     </div>
     <div>
