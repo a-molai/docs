@@ -27,7 +27,7 @@ $(function() {
   $("li:nth-child(2) input").focusin(function() {
     $(this).attr({
       "type": "password"
-    })
-  })
+    });
+  });
 
 });
