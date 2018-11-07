@@ -39,8 +39,8 @@ div {
 
       input[type=text] {
         width: 90%;
-        margin: 7px 5% 0px 5%;
-        background-color: #ccc;
+        margin: 8px 5% 0px 5%;
+        /* background-color: #ccc; */
         font-family: 'iyekan-medium';
         font-size: 15px;
         direction: ltr;
