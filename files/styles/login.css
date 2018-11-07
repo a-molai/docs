@@ -46,6 +46,7 @@ div {
         direction: ltr;
         text-align: center;
         border: none;
+        color: #ddd;
       }
 
       input[type=button] {
