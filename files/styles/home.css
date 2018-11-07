@@ -31,7 +31,7 @@ div:first-child {
       padding-right: 35px;
     }
   
-    div:first-child li:first-child {
+    div:first-child ul li:first-child {
       margin-top: 0px;
     }
 
