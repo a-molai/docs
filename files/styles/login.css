@@ -11,42 +11,41 @@ body div:first-child {
   border-radius: 20px;
 }
 
-body div:first-child img {
-  width: 60%;
-  margin: 50px 20% 30px 20%;
-}
+  body div:first-child img {
+    width: 60%;
+    margin: 50px 20% 30px 20%;
+  }
 
-body div:first-child ul {
-  width: 60%;
-  margin: 0px 20% 0px 20%;
-  background-color: #f0f;
-}
+  body div:first-child ul {
+    width: 60%;
+    margin: 0px 20% 0px 20%;
+    background-color: #f0f;
+  }
 
-body div:first-child li {
-  width: 100%;
-  border-radius: 150px;
-  background-color: #f00;
-}
+    body div:first-child li {
+      width: 100%;
+      border-radius: 150px;
+      background-color: #f00;
+    }
 
-body div:first-child input[type=text] {
-  width: 100%;
-  background-color: transparent;
-  font-family: 'iyekan-regular';
-  font-size: 15px;
-  direction: ltr;
-  text-align: center;
-  border: none;
-}
+      body div:first-child input[type=text] {
+        width: 100%;
+        background-color: transparent;
+        font-family: 'iyekan-regular';
+        font-size: 15px;
+        direction: ltr;
+        text-align: center;
+        border: none;
+      }
 
-#login-form div input[type=button] {
-  display: block;
-  padding: 10px 40px;
-  margin: 20px auto 0 auto;  
-  font-family: 'iyekan-medium';
-  font-size: 14px;
-  border: none; 
-  transition-duration: .5s;
-}
+      body div:first-child input[type=button] {
+        padding: 10px 40px;
+        margin: 20px auto 0 auto;  
+        font-family: 'iyekan-medium';
+        font-size: 14px;
+        border: none; 
+        transition-duration: .5s;
+      }
 
 #login-form div input[type=button]:hover {
   background-color: tomato;
