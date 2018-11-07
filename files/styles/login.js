@@ -42,7 +42,7 @@ $(function() {
         "style": "width: 60%; padding: 11px 10% 9px 10%; margin: 0px 10% 10px 10%; font-family: 'iyekan-regular'; font-size: 15px; text-align: center; background-color: #ddd; border: none; color: #000"
       });
       $("input:text:nth-child(2)").val("رمز عبور");
-    }
+    };
   });
 
 });
