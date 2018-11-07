@@ -11,7 +11,7 @@
     <script src="files/styles/login.js"></script>
   </head>
   <body>
-    <div id="login-form">
+    <div>
       <img src="files/images/logo.png"/>
       <ul>
         <li><input type="text" value="نام کاربری"/></li>
