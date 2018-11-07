@@ -11,7 +11,7 @@
     <script src="files/styles/login.js"></script>
   </head>
   <body>
-    <div id="sidebar">
+    <div>
       <img src="files/images/logo.png"/>
       <ul>
         <a href=""><li>آرشیو گزارشات</li></a>
