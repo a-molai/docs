@@ -24,8 +24,6 @@ body div:first-child li {
 
 body div:first-child input[type=text] {
   background-color: none;
-  padding: 10px 10%;
-  margin: 0px 10% 10px 10%;
   font-family: 'iyekan-regular';
   font-size: 15px;
   direction: ltr;
