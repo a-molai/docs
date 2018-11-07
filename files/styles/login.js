@@ -29,7 +29,7 @@ $(function() {
       $(this).val("");
       $(this).attr({
         "type": "password",
-        "style": "width: 90%; margin: 9px 5% 0px 5%; background-color: transparent; font-family: 'segoeui-regular'; font-size: 15px; text-align: center; border: none; color: #222;"
+        "style": "width: 90%; margin: 7px 5% 0px 5%; background-color: transparent; font-family: 'segoeui-regular'; font-size: 15px; text-align: center; border: none; color: #222;"
       });
     };
   });
