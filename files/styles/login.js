@@ -25,7 +25,9 @@ $(function() {
   });
 
   $("li:nth-child(2) input").focusin(function() {
-    $(this).val("");
+    $(this).attr({
+      "type": "password"
+    })
   })
 
 });
