@@ -18,7 +18,7 @@ $(function() {
       $("input:text:first").css({
         "font-family": "iyekan-regular",
         "padding-bottom": "15px",
-        "color": "#999"
+        "color": "#888"
       });
     }
   });
