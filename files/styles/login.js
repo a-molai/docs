@@ -1,6 +1,6 @@
 $(function() {
 
-  $("input:text:first").focusin(function() {
+  $("li:first input").focusin(function() {
     if ($(this).val() == "نام کاربری") {
       $(this).val("");
       $(this).css({
@@ -12,7 +12,7 @@ $(function() {
     };
   });
 
-  $("input:text:first").focusout(function() {
+  $("li:first input").focusout(function() {
     if ($(this).val() == "") {
       $(this).val("نام کاربری");
       $(this).css({
