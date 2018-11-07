@@ -29,14 +29,15 @@ div {
     li {
       width: 100%;
       height: 40px;
-      overflow: hidden;
+      /* overflow: hidden; */
       background-color: #ddd;
     }
 
       input[type=text] {
-        width: 100%;
+        width: 90%;
+        margin: 0px 5% 0px 5%;
         background-color: #ccc;
-        font-family: 'iyekan-regular';
+        font-family: 'iyekan-medium';
         font-size: 15px;
         direction: ltr;
         text-align: center;
