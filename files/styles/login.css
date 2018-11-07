@@ -28,6 +28,7 @@ div {
     }
 
       li, input[type=button] {
+        height: 40px;
         border-radius: 150px
       }
 
