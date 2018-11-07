@@ -4,7 +4,8 @@ $(function() {
     if ($("input:text:first").val() == "نام کاربری") {
       $("input:text:first").val("");
       $("input:text:first").css({
-        "font-family": "SegoeUI-Regular",
+        "font-family": "segoeui-regular",
+        "font-size": "16px",
         "padding-bottom": "11px",
         "color": "#222"
       });
@@ -16,7 +17,7 @@ $(function() {
       $("input:text:first").val("نام کاربری");
       $("input:text:first").css({
         "font-family": "iyekan-regular",
-        "padding-bottom": "10px",
+        "padding-bottom": "15px",
         "color": "#999"
       });
     }
