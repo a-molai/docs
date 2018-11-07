@@ -23,8 +23,5 @@ $(function() {
       });
     };
   });
-
-  $("input[type=text]:nth-child").focusin(function() {
-    $(this)
-
+  
 });
