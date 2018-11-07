@@ -42,9 +42,9 @@ div {
       }
 
       input[type=button] {
-        width:
+        width: 60%;
         padding: 10px 40px;
-        margin: 20px auto 0 auto;  
+        margin: 20px 20% 0px 20%;
         font-family: 'iyekan-medium';
         font-size: 14px;
         border: none; 
