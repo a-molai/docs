@@ -1,8 +1,8 @@
-#login-form {
+body div:first-child {
   width: 400px;
   height: 420px;
   position: fixed;
-  top: -28px;
+  top: 0;
   left: 0;
   right: 0;
   bottom: 0;
@@ -11,7 +11,7 @@
   border-radius: 20px;
 }
 
-#login-form img {
+body div:first-child img {
   width: 60%;
   margin: 50px 20% 30px 20%;
 }
