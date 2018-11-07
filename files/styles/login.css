@@ -23,6 +23,7 @@ body div:first-child li {
 }
 
 #login-form div input[type=text] {
+  background-color: none;
   padding: 10px 10%;
   margin: 0px 10% 10px 10%;
   font-family: 'iyekan-regular';
