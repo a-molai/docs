@@ -30,7 +30,6 @@ body div:first-child input[type=text] {
   font-size: 15px;
   direction: ltr;
   text-align: center;
-  background-color: #ddd;
   border: none;
   color: #888;
 }
