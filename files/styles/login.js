@@ -34,7 +34,7 @@ $(function() {
     };
   });
 
-  $("li:nth-child(2) input").focusin(function() {
+  $("li:nth-child(2) input").focusout(function() {
     if ($(this).val() == "") {
       $(this).val("رمز عبور");
       $(this).attr({
