@@ -9,7 +9,7 @@ $(function() {
         "margin-top": "6px",
         "color": "#222"
       });
-    }
+    };
   });
 
   $("input:text:first").focusout(function() {
@@ -21,7 +21,7 @@ $(function() {
         "margin-top": "8px",
         "color": "#888"
       });
-    }
+    };
   });
 
 
@@ -32,7 +32,7 @@ $(function() {
         "type": "password",
         "style": "width: 60%; padding: 11px 10% 9px 10%; margin: 0px 10% 10px 10%; font-family: 'segoeui-regular'; font-size: 15px; text-align: center; background-color: #ddd; border: none; color: #000"
       });
-    }
+    };
   });
 
   $("input:text:nth-child(2)").focusout(function() {
