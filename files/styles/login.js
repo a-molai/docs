@@ -26,7 +26,7 @@ $(function() {
 
 
   $("input:text:eq(2)").focusin(function() {
-    if ($("input:text:eq(2)").val() == "رمز عبور") {
+    if ($("input:text:eq(2)").val() == "p") {
       $("input:text:eq(2)").val("");
       $("input:text:eq(2)").attr({
         "type": "password",
