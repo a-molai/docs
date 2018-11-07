@@ -53,6 +53,10 @@ div {
         color: #888;
       }
 
+      input[type=text]:nth-child(2) {
+        margin-top: 6px;
+      }
+
       input[type=button] {
         padding: 10px 10%;
         margin: 30px 25% 0px 25%;
