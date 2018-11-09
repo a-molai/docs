@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>DOCS</title>
+    <title>DOCS [Login]</title>
     <link rel="stylesheet" href="files/styles/reset.css"/>
     <link rel="stylesheet" href="files/styles/master.css"/>
     <link rel="stylesheet" href="files/styles/fonts.css"/>
@@ -14,7 +14,7 @@
     <div>
       <img src="files/images/logo.png"/>
       <ul>
-        <li><input type="text" value="نام کاربری"/></li>
+        <li><input type="text" value="پست الکترونیک"/></li>
         <li><input type="text" value="رمز عبور"/></li>
         <a href="home.php"><input type="button" value="ورود به سامانه"/></a>
       </ul>

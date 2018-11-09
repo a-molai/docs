@@ -25,7 +25,7 @@ $(function() {
   });
 
   $("li:nth-child(2) input").focusin(function() {
-    if ($(this).val() == "رمز عبور") {
+    if ($(this).val() == "پست الکترونیک") {
       $(this).val("");
       $(this).attr({
         "type": "password",
@@ -36,7 +36,7 @@ $(function() {
 
   $("li:nth-child(2) input").focusout(function() {
     if ($(this).val() == "") {
-      $(this).val("رمز عبور");
+      $(this).val("پست الکترونیک");
       $(this).attr({
         "type": "text",
         "style": "width: 90%; margin: 6px 5% 0px 5%; background-color: transparent; font-family: 'iyekan-regular'; font-size: 15px; text-align: center; border: none; color: #888;"

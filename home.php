@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>DOCS</title>
+    <title>DOCS [Home]</title>
     <link rel="stylesheet" href="files/styles/reset.css"/>
     <link rel="stylesheet" href="files/styles/master.css"/>
     <link rel="stylesheet" href="files/styles/fonts.css"/>
