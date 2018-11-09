@@ -1,7 +1,7 @@
 $(function() {
 
   $("li:first input").focusin(function() {
-    if ($(this).val() == "نام کاربری") {
+    if ($(this).val() == "پست الکترونیک") {
       $(this).val("");
       $(this).css({
         "font-family": "segoeui-regular",
@@ -14,7 +14,7 @@ $(function() {
 
   $("li:first input").focusout(function() {
     if ($(this).val() == "") {
-      $(this).val("نام کاربری");
+      $(this).val("پست الکترونیک");
       $(this).css({
         "font-family": "iyekan-regular",
         "font-size": "15px",
@@ -25,7 +25,7 @@ $(function() {
   });
 
   $("li:nth-child(2) input").focusin(function() {
-    if ($(this).val() == "پست الکترونیک") {
+    if ($(this).val() == "رمز عبور") {
       $(this).val("");
       $(this).attr({
         "type": "password",
@@ -36,7 +36,7 @@ $(function() {
 
   $("li:nth-child(2) input").focusout(function() {
     if ($(this).val() == "") {
-      $(this).val("پست الکترونیک");
+      $(this).val("رمز عبور");
       $(this).attr({
         "type": "text",
         "style": "width: 90%; margin: 6px 5% 0px 5%; background-color: transparent; font-family: 'iyekan-regular'; font-size: 15px; text-align: center; border: none; color: #888;"
