@@ -11,7 +11,7 @@ html, body, div {
 
 #container div:last-child {
   background-color: rgba(0,255,0,.3);
-  width: 75%;
+  min-width: 700px;
   position: fixed;
   left: 0;
 }
