@@ -38,7 +38,7 @@ div:first-child {
 
   #events li {
     border-radius: 500px;
-    width: 90%;
+    width: 100%;
     background-color: rgba(0,0,0.5);
     padding: 15px 0px;
     float: right;
