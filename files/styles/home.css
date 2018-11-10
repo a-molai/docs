@@ -38,7 +38,7 @@ ul:last-child {
   position: fixed;
   left: 0;
 }
-
+/*
 div:nth-child(2) ul {
   width: 100%;
   margin-top: 200px;
@@ -50,4 +50,4 @@ div:nth-child(2) li {
   height: 75px;
   background-color: rgba(0,0,0,.5);
   margin: 10px 2.5% 0px 2.5%;
-}
+}*/
