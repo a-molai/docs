@@ -7,6 +7,7 @@ html {overflow:auto}
 #container {
   width: 1024px;
   height: 400px;
+  backgorund-color: #f00;
 }
 /*
 #container div:first-child {
