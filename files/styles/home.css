@@ -17,10 +17,6 @@ div:first-child {
     margin: 100px 25% 30px 25%;
   }
 
-  div:first-child li:nth-child(1) {
-    margin-top: 0px;
-  }
-
   div:first-child li {
     background-color: rgba(0,0,0,.5);
     font-family: 'iyekan-regular';

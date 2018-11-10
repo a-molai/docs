@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>DOCS [Home]</title>
+    <title>DOCS (Home)</title>
     <link rel="stylesheet" href="files/styles/reset.css"/>
     <link rel="stylesheet" href="files/styles/master.css"/>
     <link rel="stylesheet" href="files/styles/fonts.css"/>
@@ -15,7 +15,7 @@
       <img src="files/images/logo.png"/>
       <ul>
         <a href=""><li>آرشیو گزارشات</li></a>
-        <a href=""><li>خروج</li></a>
+        <a href="login.php"><li>خروج</li></a>
       </ul>
     </div>
     <div>
