@@ -29,7 +29,7 @@ div:first-child {
 
 /* --------------------- */ 
 
-ul:last-child {
+ul:nth-child(2) {
   width: calc(100% - 400px);
   background-color: rgba(255,0,0,.5);
   min-width: 880px;
