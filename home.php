@@ -18,7 +18,7 @@
           <a href="login.php"><li>خروج</li></a>
       </ul>
     </div>
-    <ul>
+    <ul id="events">
       <li>
           <p>12:40</p>
           <p>به نام خدا</p>
