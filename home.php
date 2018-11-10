@@ -15,13 +15,10 @@
       <div>
         <img src="files/images/logo.png"/>
       </div>
-      <div>
-
-      </div>
-      <div>
-          <a href="">آرشیو گزارشات</a>
-          <a href="login.php">خروج</a>
-      </div>
+      <ul>
+          <a href=""><li>آرشیو گزارشات</li></a>
+          <a href="login.php"><li>خروج</li></a>
+      </ul>
     <div>
       <ul>
         <li>
