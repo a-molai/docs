@@ -3,14 +3,14 @@ html, body, div {
 }
 
 div:first-child {
-  background-color: red;
+  background-color: rgba(255,0,0.3);
   width: 25%;
   position: fixed;
   right: 0;
 }
 
 div:last-child {
-  background-color: green;
+  background-color: rgba(0,255,0,.3);
   width: 75%;
   position: fixed;
   left: 0;
