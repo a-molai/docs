@@ -6,14 +6,14 @@ html, body, div {
   width: 1024px;
 }
 
-div:first-child {
+#container div:first-child {
   background-color: rgba(255,0,0.3);
   width: 25%;
   position: fixed;
   right: 0;
 }
 
-div:last-child {
+#container div:last-child {
   background-color: rgba(0,255,0,.3);
   width: 75%;
   position: fixed;
