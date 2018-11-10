@@ -12,7 +12,9 @@
   </head>
   <body>
     <div>
-      <img src="files/images/logo.png"/>
+      <div>
+        <img src="files/images/logo.png"/>
+      </div>
       <ul>
         <a href=""><li>آرشیو گزارشات</li></a>
         <a href="login.php"><li>خروج</li></a>
