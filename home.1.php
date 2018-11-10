@@ -12,43 +12,8 @@
   </head>
   <body>
     <div>
-      <img src="files/images/logo.png"/>
-      <ul>
-          <a href="#"><li>آرشیو گزارشات</li></a>
-          <a href="login.php"><li>خروج</li></a>
-      </ul>
-    </div>
-    <ul id="events">
-      <li>
-        <span>یکشنبه مورخ 15 شهریور 97</span>
-        <span> | </span>
-        <span>Thursday 17 November 2018</span>
-      </li>
-      <li>
-          <p>12:40</p>
-          <p>به نام خدا</p>
-          <p>جناب آقای ایروانی</p>
-      </li>
-      <li>
-          <p>12:40</p>
-          <p>به نام خدا</p>
-          <p>جناب آقای ایروانی</p>
-      </li>
-      <li>
-          <p>12:40</p>
-          <p>به نام خدا</p>
-          <p>جناب آقای ایروانی</p>
-      </li>
-      <li>
-          <p>12:40</p>
-          <p>به نام خدا</p>
-          <p>جناب آقای ایروانی</p>
-      </li>
-      <li>
-          <p>12:40</p>
-          <p>به نام خدا</p>
-          <p>جناب آقای ایروانی</p>
-      </li>
-    </ul>
+</div>
+    <div>
+</div>
   </body>
 </html>
