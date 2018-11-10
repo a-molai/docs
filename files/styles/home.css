@@ -17,7 +17,7 @@ div:first-child {
     background-color: rgba(0,0,0,.5);
     font-family: 'iyekan-regular';
     font-size: 15pt;
-    padding: 0 0 0 0;
+    padding: 15px 15px 15px 0px;
     margin-top: 10px;
     transition-duration: .7s;
   }
@@ -25,14 +25,6 @@ div:first-child {
     div:first-child li:hover {
       color: tomato;
       padding-right: 35px;
-    }
-
-    div:first-child li img {
-      width: 30px;
-      height: 30px;
-      padding: 0;
-      margin: 0px 0px 0px 0px;
-      background-color: #f00;
     }
 
 /* --------------------- */ 
