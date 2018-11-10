@@ -39,6 +39,11 @@ div:first-child {
   left: 0;
 }
 
+  #events li {
+    width: 80%;
+    background-color: rgba(0,0,0.5);
+    margin-top: 10px;
+  }
   #events p {
     display: inline;
   }
