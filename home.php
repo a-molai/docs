@@ -19,10 +19,8 @@
 
       </div>
       <div>
-        <ul>
           <a href="">آرشیو گزارشات</a>
           <a href="login.php">خروج</a>
-        </ul>
       </div>
     <div>
       <ul>
