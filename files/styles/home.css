@@ -42,7 +42,6 @@ div:first-child {
   #events li {
     width: 90%;
     background-color: rgba(0,0,0.5);
-    margin-top: 10px;
     margin: 10px 10% 0px 10%;
   }
   #events p {
