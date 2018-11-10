@@ -30,6 +30,8 @@ div:first-child {
     div:first-child li img {
       width: 20px;
       height: 20px;
+      padding: 0;
+      margin: 0;
     }
 
 /* --------------------- */ 
