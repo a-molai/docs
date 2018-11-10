@@ -2,7 +2,7 @@ html, body, div:first-child {
   height: 100%;
 }
 
-div:first-child {
+#sidebar {
   width: 400px;
   float: right;
   background-color: rgba(0,0,0,.6);
