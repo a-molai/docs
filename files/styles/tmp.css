@@ -2,13 +2,10 @@ html, body, div {
   height: 100%;
 }
 
-div {
-  display: inline
-}
-
 div:first-child {
   background-color: red;
   width: 380px;
+  float: right;
 }
 
 div:last-child {
