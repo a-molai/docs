@@ -17,25 +17,9 @@
           <a href=""><li>آرشیو گزارشات</li></a>
           <a href="login.php"><li>خروج</li></a>
       </ul>
+    </div>
     <div>
-      <ul>
-        <li>
 
-        </li>
-        <li>
-          
-        </li>
-        <li>
-          
-        </li>
-        <li>
-          
-        </li>
-        <li>
-          
-        </li>
-      </ul>
-      </div>
     </div>
   </body>
 </html>
