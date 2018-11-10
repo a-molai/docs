@@ -15,4 +15,5 @@ div:first-child {
 
 div:last-child {
   background-color: green;
+  width: 620px;
 }
