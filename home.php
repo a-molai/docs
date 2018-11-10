@@ -14,8 +14,8 @@
     <div>
       <img src="files/images/logo.png"/>
       <ul>
-          <a href=""><li><img src="files/images/logo.png"/>آرشیو گزارشات</li></a>
-          <a href="login.php"><li><img src="files/images/logo.png"/>خروج</li></a>
+          <a href=""><li>آرشیو گزارشات</li></a>
+          <a href="login.php"><li>خروج</li></a>
       </ul>
     </div>
     <div>
