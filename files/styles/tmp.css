@@ -4,11 +4,11 @@ html, body, div {
 
 html {overflow:auto}
 
-body {
-  min-width: 1280px;
+#container {
+  width: 1024px;
   height: 400px;
 }
-
+/*
 #container div:first-child {
   background-color: rgba(255,0,0.3);
   width: 400px;
@@ -22,3 +22,4 @@ body {
   position: fixed;
   left: 0;
 }
+*/
