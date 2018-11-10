@@ -31,6 +31,7 @@ div:first-child {
 
 ul:last-child {
   width: calc(100% - 400px);
+  height: 100%;
   background-color: #f00;
   min-width: 880px;
   float: right;
