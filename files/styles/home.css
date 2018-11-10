@@ -3,7 +3,7 @@ html, body, div:first-child {
 }
 
 div:first-child {
-  width: 25%;
+  width: 40
   float: right;
   background-color: rgba(0,0,0,.6);
 }
