@@ -2,10 +2,6 @@ html, body, div:first-child {
   height: 100%;
 }
 
-html, body {
-  min-width: 1280px;
-}
-
 div:first-child {
   width: 400px;
   float: right;
