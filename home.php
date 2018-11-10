@@ -20,8 +20,8 @@
       </div>
       <div>
         <ul>
-          <a href=""><li>آرشیو گزارشات</li></a>
-          <a href="login.php"><li>خروج</li></a>
+          <a href="">آرشیو گزارشات</a>
+          <a href="login.php">خروج</a>
         </ul>
       </div>
     <div>
