@@ -46,9 +46,13 @@ div:first-child {
     margin: 10px 5% 0px 5%;
     padding: 15px 0px;
   }
+
   #events p {
     display: inline;
+  }
 
+  #events li:first-child {
+    background-color: transparent;
   }
 
 /*
