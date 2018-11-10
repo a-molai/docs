@@ -21,7 +21,7 @@
     <ul id="events">
       <li>
         <span>یکشنبه مورخ 15 شهریور 97</span>
-        <span>Thursday 17 November 2018</span
+        <span>Thursday 17 November 2018</span>
       <li>
       <li>
           <p>12:40</p>
