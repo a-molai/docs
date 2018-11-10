@@ -2,10 +2,6 @@ html, body, div {
   height: 100%;
 }
 
-body {
-  width: 1024px;
-}
-
 #container div:first-child {
   background-color: rgba(255,0,0.3);
   width: 25%;
