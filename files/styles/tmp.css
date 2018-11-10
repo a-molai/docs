@@ -10,6 +10,7 @@ html, body, div {
 }
 
 #container div:last-child {
+  width: calc(100%, -400px);
   background-color: rgba(0,255,0,.3);
   position: fixed;
   left: 0;
