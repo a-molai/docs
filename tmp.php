@@ -9,11 +9,13 @@
     <link rel="stylesheet" href="files/styles/tmp.css"/>
   </head>
   <body>
-    <div>
+    <div id="container">
+      <div>
 
+      </div>
+      <div>
+        
+      </div>
     </div>
-    <div>
-    </div>
-
   </body>
 </html>
