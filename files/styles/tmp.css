@@ -5,6 +5,7 @@ html, body, div {
 body {
   width: 100%;
   min-width: 1024px;
+  overflow: auto;
 }
 
 div:first-child {
