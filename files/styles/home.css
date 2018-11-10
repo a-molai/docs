@@ -53,6 +53,7 @@ div:first-child {
 
   #events li:first-child {
     background-color: transparent;
+    text-align: center;
   }
 
 /*
