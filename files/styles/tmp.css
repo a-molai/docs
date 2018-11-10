@@ -5,7 +5,6 @@ html, body, div {
 body {
   width: 100%;
   min-width: 1024px;
-  overflow: scroll;
 }
 
 div:first-child {
