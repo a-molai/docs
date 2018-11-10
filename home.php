@@ -22,7 +22,7 @@
       <li>
         <span>یکشنبه مورخ 15 شهریور 97</span>
         <span>Thursday 17 November 2018</span>
-      <li>
+      </li>
       <li>
           <p>12:40</p>
           <p>به نام خدا</p>
