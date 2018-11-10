@@ -1,71 +1,11 @@
-html, body, div:first-child {
+html, body, div {
   height: 100%;
 }
 
 div:first-child {
-  width: 25%;
-  float: right;
-  background-color: rgba(0,0,0,.6);
+  background-color: red;
 }
 
-  div:first-child img {
-    width: 50%;
-    margin: 100px 25% 30px 25%;
-  }
-
-  div:first-child li {
-    background-color: rgba(0,0,0,.5);
-    font-family: 'iyekan-regular';
-    font-size: 15pt;
-    padding: 15px 15px 15px 0px;
-    margin-top: 10px;
-    transition-duration: .7s;
-  }
-
-    div:first-child li:hover {
-      color: tomato;
-      padding-right: 35px;
-    }
-
-/* --------------------- */ 
-
-#events {
-  width: 75%;
-  background-color: rgba(255,0,0,.5);
-  min-width: 880px;
-  float: right;
+div:last-child {
+  background-color: green;
 }
-
-  #events li {
-    border-radius: 500px;
-    width: 100%;
-    background-color: rgba(0,0,0.5);
-    padding: 15px 0px;
-    float: right;
-    position: fixed;
-    left: 0;
-  }
-
-  #events p {
-    display: inline;
-  }
-
-  #events li:first-child {
-    margin: 100px 0px 30px 0px;
-    background-color: transparent;
-    text-align: center;
-  }
-
-/*
-div:nth-child(2) ul {
-  width: 100%;
-  margin-top: 200px;
-}
-
-div:nth-child(2) li {
-  border-radius: 100px;
-  width: 95%;
-  height: 75px;
-  background-color: rgba(0,0,0,.5);
-  margin: 10px 2.5% 0px 2.5%;
-}*/
