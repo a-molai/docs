@@ -15,7 +15,6 @@ div:first-child {
 
   div:first-child li {
     background-color: rgba(0,0,0,.5);
-    direction: rtl;
     font-family: 'iyekan-regular';
     font-size: 15pt;
     padding: 15px 15px 15px 0px;
