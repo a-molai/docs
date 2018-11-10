@@ -10,12 +10,6 @@
   </head>
   <body>
     <div id="container">
-      <div>
-
-      </div>
-      <div>
-        
-      </div>
     </div>
   </body>
 </html>
