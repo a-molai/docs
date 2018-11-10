@@ -27,7 +27,7 @@ div:first-child {
       padding-right: 35px;
     }
 
-    div:first-child a img {
+    div:first-child li img {
       width: 20px;
       height: 20px;
       padding: 0;
