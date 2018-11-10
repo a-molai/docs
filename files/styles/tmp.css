@@ -5,10 +5,13 @@ html, body, div {
 div:first-child {
   background-color: red;
   width: 380px;
-  float: right;
+  position: fixed;
+  right: 0;
 }
 
 div:last-child {
   background-color: green;
   width: 620px;
+  position: fixed;
+  left: 0;
 }
