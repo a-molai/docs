@@ -17,7 +17,7 @@ div:first-child {
     background-color: rgba(0,0,0,.5);
     font-family: 'iyekan-regular';
     font-size: 15pt;
-    padding: 15px 20px 15px 0;
+    padding: 0 20px 0 0;
     margin-top: 10px;
     transition-duration: .7s;
   }
