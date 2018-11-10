@@ -28,10 +28,10 @@ div:first-child {
     }
 
     div:first-child li img {
-      width: 20px;
-      height: 20px;
+      width: 30px;
+      height: 30px;
       padding: 0;
-      margin: 3px 0px 0px 10px;
+      margin: 0px 0px 0px 10px;
       background-color: #f00;
     }
 
