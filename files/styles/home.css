@@ -7,8 +7,14 @@ html, body, div:first-child {
   float: right;
   background-color: rgba(0,0,0,.6);
 }
+  
+  #sidebar div:first-child {
+    width: 100%;
+    height: 200px;
+    background-color: #f00;
+  }
 
-  div:first-child div img {
+  #sibebar div:first-child img {
     width: 50%;
     margin: 100px 25% 30px 25%;
   }
