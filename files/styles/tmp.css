@@ -4,14 +4,14 @@ html, body, div {
 
 div:first-child {
   background-color: red;
-  width: 380px;
+  width: 25%;
   position: fixed;
   right: 0;
 }
 
 div:last-child {
   background-color: green;
-  width: 620px;
+  width: 75%;
   position: fixed;
   left: 0;
 }
