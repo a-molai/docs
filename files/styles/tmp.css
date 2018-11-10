@@ -4,6 +4,7 @@ html, body, div {
 
 #container {
   width: 1024px;
+  position: relative;
 }
 
 #container div:first-child {
