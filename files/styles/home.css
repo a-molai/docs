@@ -14,7 +14,7 @@ html, body, div:first-child {
     background-color: #f00;
   }
 
-  #sibebar div:first-child img {
+  #sidebar div:first-child img {
     width: 50%;
     margin: 100px 25% 30px 25%;
   }
