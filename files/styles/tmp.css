@@ -2,6 +2,11 @@ html, body, div {
   height: 100%;
 }
 
+body {
+  min-width: 1280px;
+  height: 400px;
+}
+
 #container div:first-child {
   background-color: rgba(255,0,0.3);
   width: 400px;
